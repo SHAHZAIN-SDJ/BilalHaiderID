@@ -1,8 +1,7 @@
-## Hello :) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F728&background=000000&center=true&vCenter=true&multiline=true&width=500&height=112&lines=Assalam+O+Alaikum+All+%3A*;Welcome+To+My+Github+Account)](https://git.io/typing-svg)
+![](https://komarev.com/ghpvc/?username=jmbf&color=green)
 
-<img src="https://img.shields.io/badge/MY GITHUB-WELCOME-76B900?style=for-the-badge&logo=github&logoColor=white" /> 
-
-``` 
+```
 
   Facebook : 100076835203956
   Whatsapp : +923440157745
@@ -10,6 +9,10 @@
 
     
 ```
+<br>
+<br>
+<img src="https://github.com/Farhan-XD/Farhan-XD/blob/264e78b84b30070514bd30a7e61c434d382db66e/Images%20;v/ALT.png" width="350" height="100" align="center">
+
 
 <br>
 <p align="center">
@@ -100,3 +103,10 @@
 
 <!-- Gambar apa pun disejajarkan ke kanan. Hati-hati lebarnya -->
 <img lebar="55%" align="kanan" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+# 𝚃𝚎𝚊𝚖 :
+
+- [**𝙱𝚒𝚕𝚊𝚕 𝙷𝚊𝚒𝚍𝚎𝚛 𝙸𝙳**](https://github.com/BilalHaiderID)
+- [**𝙼𝚞𝚓𝚝𝚊𝚋𝚊 𝙺𝚑𝚊𝚗 𝙼𝙺**](https://github.com/itz-MK-302)
+- [**𝚂𝚑𝚊𝚑𝚣𝚊𝚒𝚗 𝚂𝙳𝙹**](https://github.com/SHAHZAIN-SDJ)
+- [**𝙵𝚊𝚛𝚑𝚊𝚗-𝚇𝙳**](https://github.com/Farhan-XD)
